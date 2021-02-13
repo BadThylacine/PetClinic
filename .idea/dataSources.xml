@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="DataSourceManagerImpl" format="xml" multifile-model="true">
+    <data-source source="LOCAL" name="roles@localhost" uuid="fdf8bcd3-d84b-4b92-86cb-3494fa5778e1">
+      <driver-ref>postgresql</driver-ref>
+      <synchronize>true</synchronize>
+      <jdbc-driver>org.postgresql.Driver</jdbc-driver>
+      <jdbc-url>jdbc:postgresql://localhost:5432/roles</jdbc-url>
+    </data-source>
+    <data-source source="LOCAL" name="ddqt8r4q4eate8@ec2-54-74-14-109.eu-west-1.compute.amazonaws.com" uuid="e146507b-bc7b-4334-a2da-b6ac5d8fcca8">
+      <driver-ref>postgresql</driver-ref>
+      <synchronize>true</synchronize>
+      <jdbc-driver>org.postgresql.Driver</jdbc-driver>
+      <jdbc-url>jdbc:postgresql://ec2-54-74-14-109.eu-west-1.compute.amazonaws.com:5432/ddqt8r4q4eate8</jdbc-url>
+    </data-source>
+  </component>
+</project>
